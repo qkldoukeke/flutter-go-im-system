@@ -1,0 +1,8 @@
+name: flutter_im
+version: 0.0.1
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.0.0
